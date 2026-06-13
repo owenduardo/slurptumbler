@@ -82,7 +82,7 @@ const products = [
     name: "Blue Tumbler",
     price: 650,
     category: "1-Color Tumblers",
-    image: "/images/biruu.png",
+    image: "/images/biruu.jpeg",
     description: "",
   },
   {
@@ -90,7 +90,7 @@ const products = [
     name: "Cute Rabbit - Pink Tumbler",
     price: 650,
     category: "1-Color Tumblers",
-    image: "/images/gliter.png",
+    image: "/images/pink.jpeg",
     description: "",
   }
 ]
